@@ -1,2 +1,2 @@
 # xdev_car
-Fivem'de birden çok modlu aracı tek eklentide birleştirmek
+Fivem'de En kolay şekilde, Birden fazla modlu aracı tek eklentide birleştirmek
